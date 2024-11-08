@@ -1,0 +1,23 @@
+{
+    "name": "simplr-starter",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "start": "npm run dev",
+        "build": "vite build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "devDependencies": {
+        "vite": "^5.4.10"
+    },
+    "dependencies": {
+        "@shoelace-style/shoelace": "^2.18.0",
+        "date-fns": "^4.1.0",
+        "lit": "^3.2.1",
+        "suunta": "^2.3.2"
+    }
+}
